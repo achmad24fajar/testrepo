@@ -1,4 +1,2 @@
-# testrepo
-repo for learning
-
-# Editing repository
+# Project Name
+MyStore
